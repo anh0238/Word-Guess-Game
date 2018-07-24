@@ -1,0 +1,76 @@
+
+body {
+    background-image: href="assets/images/utensils.png"; 
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.top-panel {
+    height: 200px;
+    width: 100%;
+    background-color: #5d5d5d;
+    text-align: center;
+}
+
+.game-name {
+    font-family:'Fontdiner Swanky', cursive;
+    color: #f1d03c;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: #add9de;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+h4 {
+    font-family: sans-serif;
+    color: #5d5d5d;
+}
+
+#word {
+    font-family: 'Gochi Hand', cursive;
+    color: #ebbcce;
+    padding: 20px;
+}
+
+.middle-content {
+    margin: auto;
+    width: 70%;
+    height: 450px;
+    padding: 20px;
+}
+
+.left-panel {
+    float: left;
+    background-color: #ffffff;
+    width: 50%;
+    margin-top: 40px;
+}
+
+.right-panel {
+    float: left;
+    background-color: #ffffff;
+    width: 50%;
+    margin-top: 40px;
+}
+
+.fa-question-circle {
+    color: #5d5d5d;
+    font-weight: bolder;
+    font-size: 9em;
+}
+
+
+
+
